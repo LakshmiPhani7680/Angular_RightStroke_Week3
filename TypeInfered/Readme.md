@@ -15,9 +15,5 @@ Answer:
       
       ex: let t= 1;
       
-      
-      
-      
-      
       Explaination:
              Then the TypeScript compiler automatically knows that t is a number. It can deal with this kind of straightforward type inference without much trouble.
